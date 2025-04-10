@@ -1,1 +1,1 @@
-![image](https://github.com/guilherme23x/Bloco-de-Notas-C_charp/assets/150593535/cf5a52d9-c384-405a-ad2c-e3c16f3dbd70)
+![Bloco de Notas](https://github.com/user-attachments/assets/7ff6f471-2134-4754-801a-e99e75c878ef)
